@@ -1,2 +1,0 @@
-# LazyFCA
-Homework
